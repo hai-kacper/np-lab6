@@ -1,3 +1,5 @@
 # np-lab6
 
-#test
+1.Kacper Kotko
+2.
+3.
